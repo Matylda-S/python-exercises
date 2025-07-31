@@ -1,7 +1,7 @@
-Similarity of Texts
+# Similarity of Texts
 This folder contains solutions to exercises focused on measuring text similarity, including the use of the NLTK library.
 
-Files
+## Files
 list3.py contains functions that calculate Hamming distance, Levenshtein distance, Jaccard similarity (both for sets and for bags of words), extract k-shingles from a string, and compute the diameter of a metric space based on a given distance function.
 
 test_list3.py contains unit tests for all functions from list3.py.
